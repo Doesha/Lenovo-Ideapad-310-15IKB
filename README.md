@@ -2,7 +2,9 @@
 
 
 Identifier:                  MacBookPro14,1
+
 System Version:       Catalina 10.15.4 (19E266) > 10.15.4 (19E287) Supplemental Update
+
 Kernel Version:         Darwin 19.4.0
 
 Components:          
