@@ -8,8 +8,8 @@
 Components:    
     
                                 - Intel Core i3 (7th Gen) 7100U / 2.4 GHz
-                                -Intel HD Graphics 620          
-                                -12 GB DDR4 SDRAM 2133 MHz
+                                - Intel HD Graphics 620          
+                                - 12 GB DDR4 SDRAM 2133 MHz
 
 About:
 
