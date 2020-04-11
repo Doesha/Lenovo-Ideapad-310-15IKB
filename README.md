@@ -1,11 +1,9 @@
 # Lenovo Ideapad 310-15IKB
 
 
-Identifier:                  MacBookPro14,1
-
-System Version:       Catalina 10.15.4 (19E266) > 10.15.4 (19E287) Supplemental Update
-
-Kernel Version:         Darwin 19.4.0
+    Identifier:             MacBookPro14,1  
+    System Version:         Catalina 10.15.4 (19E287) 
+    Kernel Version:         Darwin 19.4.0
 
 Components:          
                                 Intel Core i3 (7th Gen) 7100U / 2.4 GHz
@@ -14,9 +12,8 @@ Components:
 
 About:
 
-You can pick your poison! There is an Opencore v0.5.7 or Clover revision: 5108. 
-Both of these were tested with the install of 10.15 and upgraded via the Mac App store 
-to 10.15.4 (19E266) with no modifications needed. 
+Opencore v0.5.7 or Clover revision: 5108.  Both have been tested with the install of 10.15 and upgraded via the Mac App store 
+to 10.15.4 (19E266) with no modifications needed. Upgraded to Supplemental Update for 10.15.4 (19E287) without issues.
 
 Notes:
 
