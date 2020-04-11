@@ -13,7 +13,9 @@ Components:
 
 About:
 
-       Opencore v0.5.7 or Clover revision: 5108.  Both have been tested with the install of 10.15 and upgraded via the Mac App store to 10.15.4 (19E266) with no modifications needed. Upgraded to Supplemental Update for 10.15.4 (19E287) without issues.
+       Opencore v0.5.7 or Clover revision: 5108.  Both have been tested with the install of 10.15 and upgraded via 
+       the Mac App store to 10.15.4 (19E266) with no modifications needed. Upgraded to Supplemental Update for 
+       10.15.4 (19E287) without issues.
 
 Notes:
 
