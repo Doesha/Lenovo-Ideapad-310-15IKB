@@ -5,22 +5,23 @@
     System Version:         Catalina 10.15.4 (19E287) 
     Kernel Version:         Darwin 19.4.0
 
-Components:          
-                                Intel Core i3 (7th Gen) 7100U / 2.4 GHz
-                                Intel HD Graphics 620          
-                                12 GB DDR4 SDRAM 2133 MHz
+Components:    
+    
+                                - Intel Core i3 (7th Gen) 7100U / 2.4 GHz
+                                -Intel HD Graphics 620          
+                                -12 GB DDR4 SDRAM 2133 MHz
 
 About:
 
-Opencore v0.5.7 or Clover revision: 5108.  Both have been tested with the install of 10.15 and upgraded via the Mac App store 
-to 10.15.4 (19E266) with no modifications needed. Upgraded to Supplemental Update for 10.15.4 (19E287) without issues.
+       Opencore v0.5.7 or Clover revision: 5108.  Both have been tested with the install of 10.15 and upgraded via the Mac App store to 10.15.4 (19E266) with no modifications needed. Upgraded to Supplemental Update for 10.15.4 (19E287) without issues.
 
 Notes:
 
-- Allthough Bluetooth works, the original NGFF WiFi is not compatible with macOS and must be replaced.
-- Dont forget to edit the config.plist with the correct SMBIOS serials and etc.  
+    - Allthough Bluetooth works, the original NGFF WiFi is not compatible with macOS and must be replaced.
+    - Dont forget to edit the config.plist with the correct SMBIOS serials and etc.  
 
 Included:
+    
     - Opencore EFI
     - Clover EFI
     - Windows SSDTTime Outputs
